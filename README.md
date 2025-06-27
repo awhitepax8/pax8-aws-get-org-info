@@ -9,6 +9,7 @@ This Python script retrieves information about an AWS Organization, including:
 - Accounts
 - Delegated administrators
 - Enabled policy types
+- IAM policies and roles with organization dependency
 
 ## Usage
 
