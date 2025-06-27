@@ -30,6 +30,7 @@ The script will generate a file named "org-info.txt" that contains the following
 2. Enabled Services
 3. Delegated Administrators
 4. Enabled Policy Types
+5. IAM policies and roles with organization dependency
 
 If there are no enabled services, delegated administrators, or enabled policy types, the script will print "None" for the corresponding section.
 
